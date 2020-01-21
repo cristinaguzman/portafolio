@@ -1,0 +1,114 @@
+body {
+  background-color: #ffffff;
+  font-family: 'Noto Sans TC', sans-serif;
+  margin: 0;
+  padding: 0;
+  border:0;
+}
+
+.nav_arriba {
+  background-color:#f4176d;
+}
+
+.fotodefondo {
+  background-image: url("../img/yo.jpg");
+  height: 500px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+
+.yosoy {
+  text-align: center;
+  font-size: 50px;
+  font-weight: 700;
+  padding-top: 300px;
+  font-variant: small-caps;
+}
+
+.quiensoy{
+  font-weight: 700;
+  font-style: normal;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+.trayectoria {
+  font-weight: 400;
+  font-size: 15px;
+  text-align: justify;
+}
+
+.experiencia {
+  font-size: 50px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.ultimostrabajos {
+  background-color:#f4176d;
+  text-align: center;
+  color:#000;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+}
+
+.contacto {
+  font-size: 50px;
+  font-weight: 400;
+  text-align: center;
+}
+
+h1{
+  font-weight: 700;
+
+}
+
+.footer {
+  width: 100%;
+  height: 200px;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 80px;
+  background-color:#f4176d;
+}
+
+
+h4 {
+  text-decoration: underline;
+}
+
+
+
+.menu {
+  padding-right:100px;
+}
+
+
+
+.titulo {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-weight: 700;
+}
+
+
+
+.crisslogo {
+  font-family: 'Pacifico', cursive;
+  color:#fff;
+  font-size:30px;
+  padding-left: 150px;
+}
+
+
+
+@media only screen and (max-width: 400px) {
+  .texto_derecha {
+    text-align:center;
+  }
+}
